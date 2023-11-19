@@ -5,8 +5,8 @@ Sesame RESTful webAPI Lock Unlock for MicroPython
 CANDY HOUSE の Sesame RESTful webAPI による施解錠を MircoPython に移植したもの
 
 ## 動作環境
-* D1mini(ESP8266)
-* MiroPython 1.21
+* D1 mini(ESP8266)
+* MicroPython 1.21
 
 ## D1 mini
 https://www.wemos.cc/en/latest/d1/d1_mini.html
